@@ -1,6 +1,0 @@
-{
-  "name": "Express Travel International",
-  "description": "Official website of Express Travel International, Gulberg Green, Islamabad. Providing domestic & international flight bookings, hotel reservations, visit visa assistance, and customized tour packages.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
